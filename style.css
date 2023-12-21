@@ -88,10 +88,10 @@ width: 40%;
     justify-content: space-around;
     align-items: center;
     padding: 10rem 0;
-    transition: width 1.5s cubic-bezier(0.19,1.0.22,1);
+    transition: left 1.5s cubic-bezier(0.19,1,0.22,1);
 }
 .container.change .signUp-form{
-    left: 40%;
+left: 40rem;
 }
 .container.change .banner {
     left: 10rem;
